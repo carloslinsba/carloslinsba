@@ -9,7 +9,7 @@ As of 2018 onwards I've decided to 'increase and recicle my knowledge' in AI and
 - Health care ( 'predicting and screening commom mental disorders' in the general population (2018-onwards)); 
 - Agriculture ('To assess the quality of Pink-Pepper crops'.  We're using regular photographs of the crop in order to do so (2021 - onwards) );
 
-As of 2022 I've also decided to 'recicle my knowledge' in back-end, including Python related technologies such as Flask, Django and REST API. 
+As of 2022 I've also decided to 'recicle my knowledge' in back-end, including Python and related technologies such as Flask, Django and REST API. 
 This GitHub is related to this latter task.
 
 
