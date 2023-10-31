@@ -4,11 +4,6 @@ I am a software engineer with 10+ years experience coordinating teams, developin
 
 I have a graduation at Computer Science from UFES (Brazil - 2009), a master's degree at Computer Science from UFES (Brazil - 2012) and a Ph.D. at Computer Science from the University of Twente (The Netherlands - 2017).
 
-As of 2018 onwards I've decided to 'increase my knowledge' in AI and ML, coordinating and participating in projects using ML in:
-- Health care ( 'predicting and screening commom mental disorders' in the general population (2018-onwards)); 
-- Agriculture ('To assess the quality of Pink-Pepper crops'.  We're using regular photographs of the crop in order to do so (2021 - onwards) );
-
-As of 2022 I've also decided to work closely with back-end, including Python and related technologies such as Flask, Django and REST API. I also work with JavaScript and Node.js.
 
 
 -----
