@@ -1,8 +1,9 @@
  Hi, I’m @carloslinsba. 
 
-I am a software engineer with 10+ years experience coordinating teams, developing MVPs and prototypes. PhD at University of Twente (CS top 70 universities ). Interested in challenging and engaging projects.
+I have a strong formal education and more than 10 years of hands-on experience in developing software systems, MVPs, proof of concepts and coordinating teams.  
+PhD at University of Twente (CS top 70 universities). Interested in challenging and engaging projects.
 
-I have a graduation at Computer Science from UFES (Brazil - 2009), a master's degree at Computer Science from UFES (Brazil - 2012) and a Ph.D. at Computer Science from the University of Twente (The Netherlands - 2017).
+
 
 
 
